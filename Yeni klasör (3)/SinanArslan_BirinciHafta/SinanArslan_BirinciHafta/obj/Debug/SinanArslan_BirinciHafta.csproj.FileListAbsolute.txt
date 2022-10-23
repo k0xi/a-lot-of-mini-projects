@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\SinanArslan_BirinciHafta\SinanArslan_BirinciHafta\obj\Debug\SinanArslan_BirinciHafta.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\SinanArslan_BirinciHafta\SinanArslan_BirinciHafta\obj\Debug\SinanArslan_BirinciHafta.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\SinanArslan_BirinciHafta\SinanArslan_BirinciHafta\bin\Debug\SinanArslan_BirinciHafta.exe.config
+C:\Users\ERDEM\source\repos\SinanArslan_BirinciHafta\SinanArslan_BirinciHafta\bin\Debug\SinanArslan_BirinciHafta.exe
+C:\Users\ERDEM\source\repos\SinanArslan_BirinciHafta\SinanArslan_BirinciHafta\bin\Debug\SinanArslan_BirinciHafta.pdb
+C:\Users\ERDEM\source\repos\SinanArslan_BirinciHafta\SinanArslan_BirinciHafta\obj\Debug\SinanArslan_BirinciHafta.exe
+C:\Users\ERDEM\source\repos\SinanArslan_BirinciHafta\SinanArslan_BirinciHafta\obj\Debug\SinanArslan_BirinciHafta.pdb

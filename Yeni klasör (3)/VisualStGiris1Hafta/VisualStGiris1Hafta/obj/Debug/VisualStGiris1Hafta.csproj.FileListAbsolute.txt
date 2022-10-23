@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\VisualStGiris1Hafta\VisualStGiris1Hafta\bin\Debug\VisualStGiris1Hafta.exe.config
+C:\Users\ERDEM\source\repos\VisualStGiris1Hafta\VisualStGiris1Hafta\bin\Debug\VisualStGiris1Hafta.exe
+C:\Users\ERDEM\source\repos\VisualStGiris1Hafta\VisualStGiris1Hafta\bin\Debug\VisualStGiris1Hafta.pdb
+C:\Users\ERDEM\source\repos\VisualStGiris1Hafta\VisualStGiris1Hafta\obj\Debug\VisualStGiris1Hafta.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\VisualStGiris1Hafta\VisualStGiris1Hafta\obj\Debug\VisualStGiris1Hafta.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\VisualStGiris1Hafta\VisualStGiris1Hafta\obj\Debug\VisualStGiris1Hafta.exe
+C:\Users\ERDEM\source\repos\VisualStGiris1Hafta\VisualStGiris1Hafta\obj\Debug\VisualStGiris1Hafta.pdb

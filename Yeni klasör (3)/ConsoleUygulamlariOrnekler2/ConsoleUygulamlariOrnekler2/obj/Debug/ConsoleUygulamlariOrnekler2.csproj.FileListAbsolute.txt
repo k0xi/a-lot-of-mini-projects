@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\ConsoleUygulamlariOrnekler2\ConsoleUygulamlariOrnekler2\bin\Debug\ConsoleUygulamlariOrnekler2.exe.config
+C:\Users\ERDEM\source\repos\ConsoleUygulamlariOrnekler2\ConsoleUygulamlariOrnekler2\bin\Debug\ConsoleUygulamlariOrnekler2.exe
+C:\Users\ERDEM\source\repos\ConsoleUygulamlariOrnekler2\ConsoleUygulamlariOrnekler2\bin\Debug\ConsoleUygulamlariOrnekler2.pdb
+C:\Users\ERDEM\source\repos\ConsoleUygulamlariOrnekler2\ConsoleUygulamlariOrnekler2\obj\Debug\ConsoleUygulamlariOrnekler2.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\ConsoleUygulamlariOrnekler2\ConsoleUygulamlariOrnekler2\obj\Debug\ConsoleUygulamlariOrnekler2.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\ConsoleUygulamlariOrnekler2\ConsoleUygulamlariOrnekler2\obj\Debug\ConsoleUygulamlariOrnekler2.exe
+C:\Users\ERDEM\source\repos\ConsoleUygulamlariOrnekler2\ConsoleUygulamlariOrnekler2\obj\Debug\ConsoleUygulamlariOrnekler2.pdb

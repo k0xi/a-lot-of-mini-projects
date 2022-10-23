@@ -1,0 +1,10 @@
+C:\Users\ERDEM\source\repos\WinFormsListboxUse\WinFormsListboxUse\bin\Debug\WinFormsListboxUse.exe.config
+C:\Users\ERDEM\source\repos\WinFormsListboxUse\WinFormsListboxUse\bin\Debug\WinFormsListboxUse.exe
+C:\Users\ERDEM\source\repos\WinFormsListboxUse\WinFormsListboxUse\bin\Debug\WinFormsListboxUse.pdb
+C:\Users\ERDEM\source\repos\WinFormsListboxUse\WinFormsListboxUse\obj\Debug\WinFormsListboxUse.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\WinFormsListboxUse\WinFormsListboxUse\obj\Debug\WinFormsListboxUse.Form1.resources
+C:\Users\ERDEM\source\repos\WinFormsListboxUse\WinFormsListboxUse\obj\Debug\WinFormsListboxUse.Properties.Resources.resources
+C:\Users\ERDEM\source\repos\WinFormsListboxUse\WinFormsListboxUse\obj\Debug\WinFormsListboxUse.csproj.GenerateResource.cache
+C:\Users\ERDEM\source\repos\WinFormsListboxUse\WinFormsListboxUse\obj\Debug\WinFormsListboxUse.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\WinFormsListboxUse\WinFormsListboxUse\obj\Debug\WinFormsListboxUse.exe
+C:\Users\ERDEM\source\repos\WinFormsListboxUse\WinFormsListboxUse\obj\Debug\WinFormsListboxUse.pdb

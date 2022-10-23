@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\KosulYapilariIF\KosulYapilariIF\bin\Debug\KosulYapilariIF.exe.config
+C:\Users\ERDEM\source\repos\KosulYapilariIF\KosulYapilariIF\bin\Debug\KosulYapilariIF.exe
+C:\Users\ERDEM\source\repos\KosulYapilariIF\KosulYapilariIF\bin\Debug\KosulYapilariIF.pdb
+C:\Users\ERDEM\source\repos\KosulYapilariIF\KosulYapilariIF\obj\Debug\KosulYapilariIF.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\KosulYapilariIF\KosulYapilariIF\obj\Debug\KosulYapilariIF.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\KosulYapilariIF\KosulYapilariIF\obj\Debug\KosulYapilariIF.exe
+C:\Users\ERDEM\source\repos\KosulYapilariIF\KosulYapilariIF\obj\Debug\KosulYapilariIF.pdb

@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\EkranaAdiniYazdiranProgram\EkranaAdiniYazdiranProgram\bin\Debug\EkranaAdiniYazdiranProgram.exe.config
+C:\Users\ERDEM\source\repos\EkranaAdiniYazdiranProgram\EkranaAdiniYazdiranProgram\bin\Debug\EkranaAdiniYazdiranProgram.exe
+C:\Users\ERDEM\source\repos\EkranaAdiniYazdiranProgram\EkranaAdiniYazdiranProgram\bin\Debug\EkranaAdiniYazdiranProgram.pdb
+C:\Users\ERDEM\source\repos\EkranaAdiniYazdiranProgram\EkranaAdiniYazdiranProgram\obj\Debug\EkranaAdiniYazdiranProgram.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\EkranaAdiniYazdiranProgram\EkranaAdiniYazdiranProgram\obj\Debug\EkranaAdiniYazdiranProgram.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\EkranaAdiniYazdiranProgram\EkranaAdiniYazdiranProgram\obj\Debug\EkranaAdiniYazdiranProgram.exe
+C:\Users\ERDEM\source\repos\EkranaAdiniYazdiranProgram\EkranaAdiniYazdiranProgram\obj\Debug\EkranaAdiniYazdiranProgram.pdb

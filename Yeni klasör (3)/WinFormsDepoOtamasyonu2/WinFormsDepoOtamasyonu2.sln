@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsDepoOtamasyonu2", "WinFormsDepoOtamasyonu2\WinFormsDepoOtamasyonu2.csproj", "{2C445AFC-FF53-43E6-841F-453D2BF43971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C445AFC-FF53-43E6-841F-453D2BF43971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C445AFC-FF53-43E6-841F-453D2BF43971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C445AFC-FF53-43E6-841F-453D2BF43971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C445AFC-FF53-43E6-841F-453D2BF43971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F532E97-D9FA-4B6B-832D-DAA8C7A096DB}
+	EndGlobalSection
+EndGlobal

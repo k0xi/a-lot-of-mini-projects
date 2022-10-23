@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\28092022DizilerOrn2\28092022DizilerOrn2\bin\Debug\28092022DizilerOrn2.exe.config
+C:\Users\ERDEM\source\repos\28092022DizilerOrn2\28092022DizilerOrn2\bin\Debug\28092022DizilerOrn2.exe
+C:\Users\ERDEM\source\repos\28092022DizilerOrn2\28092022DizilerOrn2\bin\Debug\28092022DizilerOrn2.pdb
+C:\Users\ERDEM\source\repos\28092022DizilerOrn2\28092022DizilerOrn2\obj\Debug\28092022DizilerOrn2.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\28092022DizilerOrn2\28092022DizilerOrn2\obj\Debug\28092022DizilerOrn2.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\28092022DizilerOrn2\28092022DizilerOrn2\obj\Debug\28092022DizilerOrn2.exe
+C:\Users\ERDEM\source\repos\28092022DizilerOrn2\28092022DizilerOrn2\obj\Debug\28092022DizilerOrn2.pdb

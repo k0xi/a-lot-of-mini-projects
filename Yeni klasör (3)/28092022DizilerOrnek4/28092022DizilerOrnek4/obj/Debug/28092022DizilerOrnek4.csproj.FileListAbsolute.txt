@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\28092022DizilerOrnek4\28092022DizilerOrnek4\bin\Debug\28092022DizilerOrnek4.exe.config
+C:\Users\ERDEM\source\repos\28092022DizilerOrnek4\28092022DizilerOrnek4\bin\Debug\28092022DizilerOrnek4.exe
+C:\Users\ERDEM\source\repos\28092022DizilerOrnek4\28092022DizilerOrnek4\bin\Debug\28092022DizilerOrnek4.pdb
+C:\Users\ERDEM\source\repos\28092022DizilerOrnek4\28092022DizilerOrnek4\obj\Debug\28092022DizilerOrnek4.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\28092022DizilerOrnek4\28092022DizilerOrnek4\obj\Debug\28092022DizilerOrnek4.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\28092022DizilerOrnek4\28092022DizilerOrnek4\obj\Debug\28092022DizilerOrnek4.exe
+C:\Users\ERDEM\source\repos\28092022DizilerOrnek4\28092022DizilerOrnek4\obj\Debug\28092022DizilerOrnek4.pdb

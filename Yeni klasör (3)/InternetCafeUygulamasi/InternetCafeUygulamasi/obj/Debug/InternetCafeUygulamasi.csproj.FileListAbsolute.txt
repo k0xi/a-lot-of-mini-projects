@@ -1,0 +1,10 @@
+C:\Users\ERDEM\source\repos\InternetCafeUygulamasi\InternetCafeUygulamasi\obj\Debug\InternetCafeUygulamasi.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\InternetCafeUygulamasi\InternetCafeUygulamasi\obj\Debug\InternetCafeUygulamasi.Form1.resources
+C:\Users\ERDEM\source\repos\InternetCafeUygulamasi\InternetCafeUygulamasi\obj\Debug\InternetCafeUygulamasi.Properties.Resources.resources
+C:\Users\ERDEM\source\repos\InternetCafeUygulamasi\InternetCafeUygulamasi\obj\Debug\InternetCafeUygulamasi.csproj.GenerateResource.cache
+C:\Users\ERDEM\source\repos\InternetCafeUygulamasi\InternetCafeUygulamasi\obj\Debug\InternetCafeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\InternetCafeUygulamasi\InternetCafeUygulamasi\bin\Debug\InternetCafeUygulamasi.exe.config
+C:\Users\ERDEM\source\repos\InternetCafeUygulamasi\InternetCafeUygulamasi\bin\Debug\InternetCafeUygulamasi.exe
+C:\Users\ERDEM\source\repos\InternetCafeUygulamasi\InternetCafeUygulamasi\bin\Debug\InternetCafeUygulamasi.pdb
+C:\Users\ERDEM\source\repos\InternetCafeUygulamasi\InternetCafeUygulamasi\obj\Debug\InternetCafeUygulamasi.exe
+C:\Users\ERDEM\source\repos\InternetCafeUygulamasi\InternetCafeUygulamasi\obj\Debug\InternetCafeUygulamasi.pdb

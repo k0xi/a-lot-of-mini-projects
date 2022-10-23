@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\ConsoleAppDonguler\ConsoleAppDonguler\bin\Debug\ConsoleAppDonguler.exe.config
+C:\Users\ERDEM\source\repos\ConsoleAppDonguler\ConsoleAppDonguler\bin\Debug\ConsoleAppDonguler.exe
+C:\Users\ERDEM\source\repos\ConsoleAppDonguler\ConsoleAppDonguler\bin\Debug\ConsoleAppDonguler.pdb
+C:\Users\ERDEM\source\repos\ConsoleAppDonguler\ConsoleAppDonguler\obj\Debug\ConsoleAppDonguler.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\ConsoleAppDonguler\ConsoleAppDonguler\obj\Debug\ConsoleAppDonguler.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\ConsoleAppDonguler\ConsoleAppDonguler\obj\Debug\ConsoleAppDonguler.exe
+C:\Users\ERDEM\source\repos\ConsoleAppDonguler\ConsoleAppDonguler\obj\Debug\ConsoleAppDonguler.pdb

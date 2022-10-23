@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\11ABHesapMakinesi\11ABHesapMakinesi\bin\Debug\11ABHesapMakinesi.exe.config
+C:\Users\ERDEM\source\repos\11ABHesapMakinesi\11ABHesapMakinesi\bin\Debug\11ABHesapMakinesi.exe
+C:\Users\ERDEM\source\repos\11ABHesapMakinesi\11ABHesapMakinesi\bin\Debug\11ABHesapMakinesi.pdb
+C:\Users\ERDEM\source\repos\11ABHesapMakinesi\11ABHesapMakinesi\obj\Debug\11ABHesapMakinesi.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\11ABHesapMakinesi\11ABHesapMakinesi\obj\Debug\11ABHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\11ABHesapMakinesi\11ABHesapMakinesi\obj\Debug\11ABHesapMakinesi.exe
+C:\Users\ERDEM\source\repos\11ABHesapMakinesi\11ABHesapMakinesi\obj\Debug\11ABHesapMakinesi.pdb

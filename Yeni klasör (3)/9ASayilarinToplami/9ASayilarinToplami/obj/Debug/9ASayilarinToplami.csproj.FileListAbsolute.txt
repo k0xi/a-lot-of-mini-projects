@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\9ASayilarinToplami\9ASayilarinToplami\bin\Debug\9ASayilarinToplami.exe.config
+C:\Users\ERDEM\source\repos\9ASayilarinToplami\9ASayilarinToplami\bin\Debug\9ASayilarinToplami.exe
+C:\Users\ERDEM\source\repos\9ASayilarinToplami\9ASayilarinToplami\bin\Debug\9ASayilarinToplami.pdb
+C:\Users\ERDEM\source\repos\9ASayilarinToplami\9ASayilarinToplami\obj\Debug\9ASayilarinToplami.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\9ASayilarinToplami\9ASayilarinToplami\obj\Debug\9ASayilarinToplami.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\9ASayilarinToplami\9ASayilarinToplami\obj\Debug\9ASayilarinToplami.exe
+C:\Users\ERDEM\source\repos\9ASayilarinToplami\9ASayilarinToplami\obj\Debug\9ASayilarinToplami.pdb

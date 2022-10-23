@@ -1,0 +1,10 @@
+C:\Users\ERDEM\source\repos\04102022WinFormGiris\04102022WinFormGiris\obj\Debug\04102022WinFormGiris.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\04102022WinFormGiris\04102022WinFormGiris\obj\Debug\_04102022WinFormGiris.Form1.resources
+C:\Users\ERDEM\source\repos\04102022WinFormGiris\04102022WinFormGiris\obj\Debug\_04102022WinFormGiris.Properties.Resources.resources
+C:\Users\ERDEM\source\repos\04102022WinFormGiris\04102022WinFormGiris\obj\Debug\04102022WinFormGiris.csproj.GenerateResource.cache
+C:\Users\ERDEM\source\repos\04102022WinFormGiris\04102022WinFormGiris\obj\Debug\04102022WinFormGiris.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\04102022WinFormGiris\04102022WinFormGiris\bin\Debug\04102022WinFormGiris.exe.config
+C:\Users\ERDEM\source\repos\04102022WinFormGiris\04102022WinFormGiris\bin\Debug\04102022WinFormGiris.exe
+C:\Users\ERDEM\source\repos\04102022WinFormGiris\04102022WinFormGiris\bin\Debug\04102022WinFormGiris.pdb
+C:\Users\ERDEM\source\repos\04102022WinFormGiris\04102022WinFormGiris\obj\Debug\04102022WinFormGiris.exe
+C:\Users\ERDEM\source\repos\04102022WinFormGiris\04102022WinFormGiris\obj\Debug\04102022WinFormGiris.pdb

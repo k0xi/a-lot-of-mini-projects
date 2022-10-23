@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\ConsoleAppForDongusu\ConsoleAppForDongusu\bin\Debug\ConsoleAppForDongusu.exe.config
+C:\Users\ERDEM\source\repos\ConsoleAppForDongusu\ConsoleAppForDongusu\bin\Debug\ConsoleAppForDongusu.exe
+C:\Users\ERDEM\source\repos\ConsoleAppForDongusu\ConsoleAppForDongusu\bin\Debug\ConsoleAppForDongusu.pdb
+C:\Users\ERDEM\source\repos\ConsoleAppForDongusu\ConsoleAppForDongusu\obj\Debug\ConsoleAppForDongusu.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\ConsoleAppForDongusu\ConsoleAppForDongusu\obj\Debug\ConsoleAppForDongusu.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\ConsoleAppForDongusu\ConsoleAppForDongusu\obj\Debug\ConsoleAppForDongusu.exe
+C:\Users\ERDEM\source\repos\ConsoleAppForDongusu\ConsoleAppForDongusu\obj\Debug\ConsoleAppForDongusu.pdb

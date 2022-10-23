@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\AyhanOrnek\AyhanOrnek\bin\Debug\AyhanOrnek.exe.config
+C:\Users\ERDEM\source\repos\AyhanOrnek\AyhanOrnek\bin\Debug\AyhanOrnek.exe
+C:\Users\ERDEM\source\repos\AyhanOrnek\AyhanOrnek\bin\Debug\AyhanOrnek.pdb
+C:\Users\ERDEM\source\repos\AyhanOrnek\AyhanOrnek\obj\Debug\AyhanOrnek.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\AyhanOrnek\AyhanOrnek\obj\Debug\AyhanOrnek.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\AyhanOrnek\AyhanOrnek\obj\Debug\AyhanOrnek.exe
+C:\Users\ERDEM\source\repos\AyhanOrnek\AyhanOrnek\obj\Debug\AyhanOrnek.pdb

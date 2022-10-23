@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\DikdortgenAlan11\DikdortgenAlan11\bin\Debug\DikdortgenAlan11.exe.config
+C:\Users\ERDEM\source\repos\DikdortgenAlan11\DikdortgenAlan11\bin\Debug\DikdortgenAlan11.exe
+C:\Users\ERDEM\source\repos\DikdortgenAlan11\DikdortgenAlan11\bin\Debug\DikdortgenAlan11.pdb
+C:\Users\ERDEM\source\repos\DikdortgenAlan11\DikdortgenAlan11\obj\Debug\DikdortgenAlan11.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\DikdortgenAlan11\DikdortgenAlan11\obj\Debug\DikdortgenAlan11.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\DikdortgenAlan11\DikdortgenAlan11\obj\Debug\DikdortgenAlan11.exe
+C:\Users\ERDEM\source\repos\DikdortgenAlan11\DikdortgenAlan11\obj\Debug\DikdortgenAlan11.pdb

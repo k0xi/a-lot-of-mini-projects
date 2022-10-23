@@ -1,0 +1,10 @@
+C:\Users\ERDEM\source\repos\WinForm21102022Demo9B\WinForm21102022Demo9B\bin\Debug\WinForm21102022Demo9B.exe.config
+C:\Users\ERDEM\source\repos\WinForm21102022Demo9B\WinForm21102022Demo9B\bin\Debug\WinForm21102022Demo9B.exe
+C:\Users\ERDEM\source\repos\WinForm21102022Demo9B\WinForm21102022Demo9B\bin\Debug\WinForm21102022Demo9B.pdb
+C:\Users\ERDEM\source\repos\WinForm21102022Demo9B\WinForm21102022Demo9B\obj\Debug\WinForm21102022Demo9B.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\WinForm21102022Demo9B\WinForm21102022Demo9B\obj\Debug\WinForm21102022Demo9B.Form1.resources
+C:\Users\ERDEM\source\repos\WinForm21102022Demo9B\WinForm21102022Demo9B\obj\Debug\WinForm21102022Demo9B.Properties.Resources.resources
+C:\Users\ERDEM\source\repos\WinForm21102022Demo9B\WinForm21102022Demo9B\obj\Debug\WinForm21102022Demo9B.csproj.GenerateResource.cache
+C:\Users\ERDEM\source\repos\WinForm21102022Demo9B\WinForm21102022Demo9B\obj\Debug\WinForm21102022Demo9B.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\WinForm21102022Demo9B\WinForm21102022Demo9B\obj\Debug\WinForm21102022Demo9B.exe
+C:\Users\ERDEM\source\repos\WinForm21102022Demo9B\WinForm21102022Demo9B\obj\Debug\WinForm21102022Demo9B.pdb

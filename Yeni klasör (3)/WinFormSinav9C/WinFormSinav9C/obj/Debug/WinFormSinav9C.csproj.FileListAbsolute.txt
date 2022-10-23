@@ -1,0 +1,10 @@
+C:\Users\ERDEM\source\repos\WinFormSinav9C\WinFormSinav9C\bin\Debug\WinFormSinav9C.exe.config
+C:\Users\ERDEM\source\repos\WinFormSinav9C\WinFormSinav9C\bin\Debug\WinFormSinav9C.exe
+C:\Users\ERDEM\source\repos\WinFormSinav9C\WinFormSinav9C\bin\Debug\WinFormSinav9C.pdb
+C:\Users\ERDEM\source\repos\WinFormSinav9C\WinFormSinav9C\obj\Debug\WinFormSinav9C.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\WinFormSinav9C\WinFormSinav9C\obj\Debug\WinFormSinav9C.Form1.resources
+C:\Users\ERDEM\source\repos\WinFormSinav9C\WinFormSinav9C\obj\Debug\WinFormSinav9C.Properties.Resources.resources
+C:\Users\ERDEM\source\repos\WinFormSinav9C\WinFormSinav9C\obj\Debug\WinFormSinav9C.csproj.GenerateResource.cache
+C:\Users\ERDEM\source\repos\WinFormSinav9C\WinFormSinav9C\obj\Debug\WinFormSinav9C.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\WinFormSinav9C\WinFormSinav9C\obj\Debug\WinFormSinav9C.exe
+C:\Users\ERDEM\source\repos\WinFormSinav9C\WinFormSinav9C\obj\Debug\WinFormSinav9C.pdb

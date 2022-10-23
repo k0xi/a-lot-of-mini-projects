@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\28092022Orn3\28092022Orn3\bin\Debug\28092022Orn3.exe.config
+C:\Users\ERDEM\source\repos\28092022Orn3\28092022Orn3\bin\Debug\28092022Orn3.exe
+C:\Users\ERDEM\source\repos\28092022Orn3\28092022Orn3\bin\Debug\28092022Orn3.pdb
+C:\Users\ERDEM\source\repos\28092022Orn3\28092022Orn3\obj\Debug\28092022Orn3.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\28092022Orn3\28092022Orn3\obj\Debug\28092022Orn3.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\28092022Orn3\28092022Orn3\obj\Debug\28092022Orn3.exe
+C:\Users\ERDEM\source\repos\28092022Orn3\28092022Orn3\obj\Debug\28092022Orn3.pdb

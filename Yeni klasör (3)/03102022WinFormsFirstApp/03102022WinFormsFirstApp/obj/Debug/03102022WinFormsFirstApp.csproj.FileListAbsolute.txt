@@ -1,0 +1,10 @@
+C:\Users\ERDEM\source\repos\03102022WinFormsFirstApp\03102022WinFormsFirstApp\bin\Debug\03102022WinFormsFirstApp.exe.config
+C:\Users\ERDEM\source\repos\03102022WinFormsFirstApp\03102022WinFormsFirstApp\bin\Debug\03102022WinFormsFirstApp.exe
+C:\Users\ERDEM\source\repos\03102022WinFormsFirstApp\03102022WinFormsFirstApp\bin\Debug\03102022WinFormsFirstApp.pdb
+C:\Users\ERDEM\source\repos\03102022WinFormsFirstApp\03102022WinFormsFirstApp\obj\Debug\03102022WinFormsFirstApp.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\03102022WinFormsFirstApp\03102022WinFormsFirstApp\obj\Debug\_03102022WinFormsFirstApp.Form1.resources
+C:\Users\ERDEM\source\repos\03102022WinFormsFirstApp\03102022WinFormsFirstApp\obj\Debug\_03102022WinFormsFirstApp.Properties.Resources.resources
+C:\Users\ERDEM\source\repos\03102022WinFormsFirstApp\03102022WinFormsFirstApp\obj\Debug\03102022WinFormsFirstApp.csproj.GenerateResource.cache
+C:\Users\ERDEM\source\repos\03102022WinFormsFirstApp\03102022WinFormsFirstApp\obj\Debug\03102022WinFormsFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\03102022WinFormsFirstApp\03102022WinFormsFirstApp\obj\Debug\03102022WinFormsFirstApp.exe
+C:\Users\ERDEM\source\repos\03102022WinFormsFirstApp\03102022WinFormsFirstApp\obj\Debug\03102022WinFormsFirstApp.pdb

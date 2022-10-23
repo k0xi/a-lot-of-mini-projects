@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\Ornek75\Ornek75\bin\Debug\Ornek75.exe.config
+C:\Users\ERDEM\source\repos\Ornek75\Ornek75\bin\Debug\Ornek75.exe
+C:\Users\ERDEM\source\repos\Ornek75\Ornek75\bin\Debug\Ornek75.pdb
+C:\Users\ERDEM\source\repos\Ornek75\Ornek75\obj\Debug\Ornek75.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\Ornek75\Ornek75\obj\Debug\Ornek75.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\Ornek75\Ornek75\obj\Debug\Ornek75.exe
+C:\Users\ERDEM\source\repos\Ornek75\Ornek75\obj\Debug\Ornek75.pdb

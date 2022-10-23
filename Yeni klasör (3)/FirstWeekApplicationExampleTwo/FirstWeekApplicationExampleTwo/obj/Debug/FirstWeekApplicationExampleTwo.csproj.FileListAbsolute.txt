@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\FirstWeekApplicationExampleTwo\FirstWeekApplicationExampleTwo\bin\Debug\FirstWeekApplicationExampleTwo.exe.config
+C:\Users\ERDEM\source\repos\FirstWeekApplicationExampleTwo\FirstWeekApplicationExampleTwo\bin\Debug\FirstWeekApplicationExampleTwo.exe
+C:\Users\ERDEM\source\repos\FirstWeekApplicationExampleTwo\FirstWeekApplicationExampleTwo\bin\Debug\FirstWeekApplicationExampleTwo.pdb
+C:\Users\ERDEM\source\repos\FirstWeekApplicationExampleTwo\FirstWeekApplicationExampleTwo\obj\Debug\FirstWeekApplicationExampleTwo.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\FirstWeekApplicationExampleTwo\FirstWeekApplicationExampleTwo\obj\Debug\FirstWeekApplicationExampleTwo.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\FirstWeekApplicationExampleTwo\FirstWeekApplicationExampleTwo\obj\Debug\FirstWeekApplicationExampleTwo.exe
+C:\Users\ERDEM\source\repos\FirstWeekApplicationExampleTwo\FirstWeekApplicationExampleTwo\obj\Debug\FirstWeekApplicationExampleTwo.pdb

@@ -1,0 +1,12 @@
+C:\Users\ERDEM\source\repos\SinavCalisma9c\SinavCalisma9c\bin\Debug\SinavCalisma9c.exe.config
+C:\Users\ERDEM\source\repos\SinavCalisma9c\SinavCalisma9c\bin\Debug\SinavCalisma9c.exe
+C:\Users\ERDEM\source\repos\SinavCalisma9c\SinavCalisma9c\bin\Debug\SinavCalisma9c.pdb
+C:\Users\ERDEM\source\repos\SinavCalisma9c\SinavCalisma9c\obj\Debug\SinavCalisma9c.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\SinavCalisma9c\SinavCalisma9c\obj\Debug\SinavCalisma9c.Form1.resources
+C:\Users\ERDEM\source\repos\SinavCalisma9c\SinavCalisma9c\obj\Debug\SinavCalisma9c.Properties.Resources.resources
+C:\Users\ERDEM\source\repos\SinavCalisma9c\SinavCalisma9c\obj\Debug\SinavCalisma9c.csproj.GenerateResource.cache
+C:\Users\ERDEM\source\repos\SinavCalisma9c\SinavCalisma9c\obj\Debug\SinavCalisma9c.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\SinavCalisma9c\SinavCalisma9c\obj\Debug\SinavCalisma9c.exe
+C:\Users\ERDEM\source\repos\SinavCalisma9c\SinavCalisma9c\obj\Debug\SinavCalisma9c.pdb
+C:\Users\ERDEM\source\repos\SinavCalisma9c\SinavCalisma9c\obj\Debug\SinavCalisma9c.Form2.resources
+C:\Users\ERDEM\source\repos\SinavCalisma9c\SinavCalisma9c\obj\Debug\SinavCalisma9c.Form3.resources

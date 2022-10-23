@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\10Asilinecek\10Asilinecek\bin\Debug\10Asilinecek.exe.config
+C:\Users\ERDEM\source\repos\10Asilinecek\10Asilinecek\bin\Debug\10Asilinecek.exe
+C:\Users\ERDEM\source\repos\10Asilinecek\10Asilinecek\bin\Debug\10Asilinecek.pdb
+C:\Users\ERDEM\source\repos\10Asilinecek\10Asilinecek\obj\Debug\10Asilinecek.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\10Asilinecek\10Asilinecek\obj\Debug\10Asilinecek.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\10Asilinecek\10Asilinecek\obj\Debug\10Asilinecek.exe
+C:\Users\ERDEM\source\repos\10Asilinecek\10Asilinecek\obj\Debug\10Asilinecek.pdb

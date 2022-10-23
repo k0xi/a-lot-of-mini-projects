@@ -1,0 +1,2 @@
+C:\Users\ERDEM\source\repos\KararYapilariOrnekSorular\KararYapilariOrnekSorular\obj\Debug\KararYapilariOrnekSorular.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\KararYapilariOrnekSorular\KararYapilariOrnekSorular\obj\Debug\KararYapilariOrnekSorular.csproj.CoreCompileInputs.cache

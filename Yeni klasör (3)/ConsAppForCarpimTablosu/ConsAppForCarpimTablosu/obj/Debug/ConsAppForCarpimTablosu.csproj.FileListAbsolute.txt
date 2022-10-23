@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\ConsAppForCarpimTablosu\ConsAppForCarpimTablosu\bin\Debug\ConsAppForCarpimTablosu.exe.config
+C:\Users\ERDEM\source\repos\ConsAppForCarpimTablosu\ConsAppForCarpimTablosu\bin\Debug\ConsAppForCarpimTablosu.exe
+C:\Users\ERDEM\source\repos\ConsAppForCarpimTablosu\ConsAppForCarpimTablosu\bin\Debug\ConsAppForCarpimTablosu.pdb
+C:\Users\ERDEM\source\repos\ConsAppForCarpimTablosu\ConsAppForCarpimTablosu\obj\Debug\ConsAppForCarpimTablosu.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\ConsAppForCarpimTablosu\ConsAppForCarpimTablosu\obj\Debug\ConsAppForCarpimTablosu.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\ConsAppForCarpimTablosu\ConsAppForCarpimTablosu\obj\Debug\ConsAppForCarpimTablosu.exe
+C:\Users\ERDEM\source\repos\ConsAppForCarpimTablosu\ConsAppForCarpimTablosu\obj\Debug\ConsAppForCarpimTablosu.pdb

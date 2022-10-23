@@ -1,0 +1,10 @@
+C:\Users\ERDEM\source\repos\30092022FirstWinApplication9A\30092022FirstWinApplication9A\bin\Debug\30092022FirstWinApplication9A.exe.config
+C:\Users\ERDEM\source\repos\30092022FirstWinApplication9A\30092022FirstWinApplication9A\bin\Debug\30092022FirstWinApplication9A.exe
+C:\Users\ERDEM\source\repos\30092022FirstWinApplication9A\30092022FirstWinApplication9A\bin\Debug\30092022FirstWinApplication9A.pdb
+C:\Users\ERDEM\source\repos\30092022FirstWinApplication9A\30092022FirstWinApplication9A\obj\Debug\30092022FirstWinApplication9A.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\30092022FirstWinApplication9A\30092022FirstWinApplication9A\obj\Debug\_30092022FirstWinApplication9A.Properties.Resources.resources
+C:\Users\ERDEM\source\repos\30092022FirstWinApplication9A\30092022FirstWinApplication9A\obj\Debug\30092022FirstWinApplication9A.csproj.GenerateResource.cache
+C:\Users\ERDEM\source\repos\30092022FirstWinApplication9A\30092022FirstWinApplication9A\obj\Debug\30092022FirstWinApplication9A.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\30092022FirstWinApplication9A\30092022FirstWinApplication9A\obj\Debug\30092022FirstWinApplication9A.exe
+C:\Users\ERDEM\source\repos\30092022FirstWinApplication9A\30092022FirstWinApplication9A\obj\Debug\30092022FirstWinApplication9A.pdb
+C:\Users\ERDEM\source\repos\30092022FirstWinApplication9A\30092022FirstWinApplication9A\obj\Debug\_30092022FirstWinApplication9A.Form1.resources

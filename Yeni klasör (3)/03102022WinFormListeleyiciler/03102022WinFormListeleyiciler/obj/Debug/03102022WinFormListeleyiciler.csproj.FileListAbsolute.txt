@@ -1,0 +1,10 @@
+C:\Users\ERDEM\source\repos\03102022WinFormListeleyiciler\03102022WinFormListeleyiciler\bin\Debug\03102022WinFormListeleyiciler.exe.config
+C:\Users\ERDEM\source\repos\03102022WinFormListeleyiciler\03102022WinFormListeleyiciler\bin\Debug\03102022WinFormListeleyiciler.exe
+C:\Users\ERDEM\source\repos\03102022WinFormListeleyiciler\03102022WinFormListeleyiciler\bin\Debug\03102022WinFormListeleyiciler.pdb
+C:\Users\ERDEM\source\repos\03102022WinFormListeleyiciler\03102022WinFormListeleyiciler\obj\Debug\_03102022WinFormListeleyiciler.Form1.resources
+C:\Users\ERDEM\source\repos\03102022WinFormListeleyiciler\03102022WinFormListeleyiciler\obj\Debug\_03102022WinFormListeleyiciler.Properties.Resources.resources
+C:\Users\ERDEM\source\repos\03102022WinFormListeleyiciler\03102022WinFormListeleyiciler\obj\Debug\03102022WinFormListeleyiciler.csproj.GenerateResource.cache
+C:\Users\ERDEM\source\repos\03102022WinFormListeleyiciler\03102022WinFormListeleyiciler\obj\Debug\03102022WinFormListeleyiciler.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\03102022WinFormListeleyiciler\03102022WinFormListeleyiciler\obj\Debug\03102022WinFormListeleyiciler.exe
+C:\Users\ERDEM\source\repos\03102022WinFormListeleyiciler\03102022WinFormListeleyiciler\obj\Debug\03102022WinFormListeleyiciler.pdb
+C:\Users\ERDEM\source\repos\03102022WinFormListeleyiciler\03102022WinFormListeleyiciler\obj\Debug\03102022WinFormListeleyiciler.csprojAssemblyReference.cache

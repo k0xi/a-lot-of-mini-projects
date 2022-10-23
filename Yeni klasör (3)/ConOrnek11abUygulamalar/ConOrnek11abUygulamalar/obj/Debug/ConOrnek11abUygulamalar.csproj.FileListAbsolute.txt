@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\ConOrnek11abUygulamalar\ConOrnek11abUygulamalar\obj\Debug\ConOrnek11abUygulamalar.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\ConOrnek11abUygulamalar\ConOrnek11abUygulamalar\obj\Debug\ConOrnek11abUygulamalar.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\ConOrnek11abUygulamalar\ConOrnek11abUygulamalar\bin\Debug\ConOrnek11abUygulamalar.exe.config
+C:\Users\ERDEM\source\repos\ConOrnek11abUygulamalar\ConOrnek11abUygulamalar\bin\Debug\ConOrnek11abUygulamalar.exe
+C:\Users\ERDEM\source\repos\ConOrnek11abUygulamalar\ConOrnek11abUygulamalar\bin\Debug\ConOrnek11abUygulamalar.pdb
+C:\Users\ERDEM\source\repos\ConOrnek11abUygulamalar\ConOrnek11abUygulamalar\obj\Debug\ConOrnek11abUygulamalar.exe
+C:\Users\ERDEM\source\repos\ConOrnek11abUygulamalar\ConOrnek11abUygulamalar\obj\Debug\ConOrnek11abUygulamalar.pdb

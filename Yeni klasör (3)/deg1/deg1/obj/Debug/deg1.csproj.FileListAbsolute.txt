@@ -1,0 +1,2 @@
+C:\Users\ERDEM\source\repos\deg1\deg1\obj\Debug\deg1.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\deg1\deg1\obj\Debug\deg1.csproj.CoreCompileInputs.cache

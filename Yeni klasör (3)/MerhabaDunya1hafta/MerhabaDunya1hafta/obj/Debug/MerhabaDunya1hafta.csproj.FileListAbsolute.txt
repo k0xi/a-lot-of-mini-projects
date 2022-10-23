@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\MerhabaDunya1hafta\MerhabaDunya1hafta\bin\Debug\MerhabaDunya1hafta.exe.config
+C:\Users\ERDEM\source\repos\MerhabaDunya1hafta\MerhabaDunya1hafta\bin\Debug\MerhabaDunya1hafta.exe
+C:\Users\ERDEM\source\repos\MerhabaDunya1hafta\MerhabaDunya1hafta\bin\Debug\MerhabaDunya1hafta.pdb
+C:\Users\ERDEM\source\repos\MerhabaDunya1hafta\MerhabaDunya1hafta\obj\Debug\MerhabaDunya1hafta.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\MerhabaDunya1hafta\MerhabaDunya1hafta\obj\Debug\MerhabaDunya1hafta.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\MerhabaDunya1hafta\MerhabaDunya1hafta\obj\Debug\MerhabaDunya1hafta.exe
+C:\Users\ERDEM\source\repos\MerhabaDunya1hafta\MerhabaDunya1hafta\obj\Debug\MerhabaDunya1hafta.pdb
